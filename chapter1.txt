@@ -1,1 +1,1 @@
-This is a txt file for Git learning 
+complete new lines added to see 'git diff' effect
